@@ -1,4 +1,4 @@
-#-Regresion-Lineal-Simple
+## Regresion Lineal Simple
 
 La felicidad no es algo fácilmente mensurable, aun así, la publicación World Happiness Report (WHR) ha tratado desde el 2012 de medir los niveles de felicidad de la gran mayoría de los países del mundo. Los resultados que obtienen año con año se publican de forma abierta, así como los datos que lograron capturar
 
@@ -15,3 +15,8 @@ La base de datos cuenta con la siguiente información:
 
 Objetivo: 
     Análisis y la visualización de datos usando regresión lineal usando una base de datos para poner en práctica los conocimientos que he adquirido para encontrar un modelo de regresión lineal simple en el que relaciones la felicidad y el GDP de un país. Para concluir si entre mas GDP si afecta directamente la felicidad.
+
+Este proyecto incluye los siguientes documentos:
+
+- Reporte en formato ipynb
+- Base de datos
